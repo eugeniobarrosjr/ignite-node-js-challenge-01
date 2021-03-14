@@ -8,10 +8,18 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// const users = [];
+const users = [];
 
 function checksExistsUserAccount(request, response, next) {
-  // Complete aqui
+  const { username } = request.headers;
+
+  const user = users.find((user) => user.username === username);
+
+  if(!user) {
+    return response.status(400).json({
+      error: 'User not found!'
+    });
+  }
 }
 
 app.post('/users', (request, response) => {
