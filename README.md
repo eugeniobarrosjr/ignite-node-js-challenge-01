@@ -6,8 +6,6 @@
   Desafio 01: Conceitos do Node.js
 </h3>
 
-<p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
-
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/prenato84/ignite-conceitos-nodejs?style=flat">
 
@@ -22,19 +20,17 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#keyboard-instalação-e-execução-do-projeto">Instalação e Execução do Projeto</a>
-  <a href="#memo-licença">Licença</a>
-</p>
-
 ## Sobre
 
 Nesse desafio, foi criado uma API para gerenciar suas tarefas.
 
-### :keyboard: Instalação e Execução do Projeto
+### Instalação e Execução do Projeto
 
 - Clone este repositório
+
+```
+git clone https://github.com/eugeniobarrosjr/ignite-node-js-challenge-01.git
+```
 
 - Instale as dependências com o Yarn
 
