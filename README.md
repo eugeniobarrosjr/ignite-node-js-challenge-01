@@ -14,10 +14,6 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/rocketseat-education/ignite-template-conceitos-do-nodejs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat-education/ignite-template-conceitos-do-nodejs?style=social">
-  </a>
 </p>
 
 ## Sobre
